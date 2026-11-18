@@ -1,0 +1,2 @@
+Welcome to PythonFile Handling Practical
+This is Append Mode
